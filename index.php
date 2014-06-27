@@ -1,0 +1,212 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>inDistance By Rooftop Application Technologies</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="Android Mobile App inDistance Platform" />
+		<meta name="keywords" content="Android inDistance Mobile Application" />
+		<meta name="author" content="Hoofar Pourzand"/>
+		<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,300italic" rel="stylesheet" type="text/css" />
+		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.poptrox.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel-noscript.css" />
+			<link rel="stylesheet" href="css/style.css" />
+		</noscript>
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+	</head>
+	<body>		
+		<!-- Header -->
+			<section id="header">
+				<header>
+					<h1>inDistance</h1>
+					<p>By Rooftop Applications</p>
+				</header>
+				<footer>
+				<!--	<a href="#banner" class="button style2 scrolly scrolly-centered">Why it's so anticipated?</a> -->
+				
+				<!-- Download -->
+					<a class="button style2 scrolly scrolly-centered" href="C:\Users\Ricky\Programming\Summer_2014\html\inDistance.apk" download="inDistance.apk">Download</a>
+					
+				<!--	<form method= "get" action="C:\Users\Ricky\Programming\Summer_2014\html\inDistance.apk" download= "inDistance.apk">
+						<button class="button style2 scrolly scrolly-centered" type="submit">Download</button>
+					</form> -->
+				</footer>
+			</section>
+		
+		<!-- Banner -->
+			<section id="banner">
+				<header>
+					<h2>Because Texting is too much!</h2>
+				</header>
+				<p>A brand new way to leave messages and share moments designed by <a href="http://itshoofar.com">Me</a> for <a href="http://play.google.com/">Android phones</a>.<br/>
+				It’s fully native, first prototyped a year ago <a href="http://www.keystoneedge.com/innovationnews/HackPSU1206.aspx"> at HackPSU </a>, and of course successfully <a href="https://www.youtube.com/watch?v=Dvs9zj3jDxs"> demoed</a> and was <a href="https://www.youtube.com/watch?v=QjsK4YGfneI">loved-in-the-first-sight </a>  <br />
+				With three clicks you are sharing what you like, using your WiFi.</p>
+				<footer>
+					<a href="#first" class="button style2 scrolly">What? How?</a>
+				</footer>
+			</section>
+		
+		<!-- Feature 1 -->
+			<article id="first" class="container box style1 right">
+				<a href="#" class="image full"><img src="Famous/Monro.jpg" alt="" /></a>
+				<div class="inner">
+					<header>
+						<h2>Upload Audio<br />
+						using your Voice Recorder</h2>
+					</header>
+					<p>with a click you start to upload your audio to your Youtube channel after you singed in. If you may, the moment you had WiFi, the Audio will be sent to whoever you want.</p>
+				</div>
+			</article>
+		
+		<!-- Feature 2 -->
+			<article class="container box style1 left">
+				<!--<a href="#" class="image full"><img src="images/bg.jpg" alt="" /></a> -->
+				
+				
+				<div class="inner">
+					<header>
+						<h2>Or even your Video<br />
+						Just start recording!</h2>
+					</header>
+					<p>You won't miss a moment, again, it will be uploaded to your youtube channel, when you got Wifi, no-extra-bother! The link will be sent to who ever you want within a time frame you want. <br><br></p>
+				
+				</div>
+				
+				<div class = "inner2">
+					<video width = 100% height = 100% controls>
+						<source src = "videos/smarties-1.mp4">
+					</video>	
+				</div>
+				
+			</article>
+		
+		<!-- Portfolio -->
+			<article class="container box style2">
+				<header>
+					<h2>Or multiple pictures! </h2>
+					<p>Take multi-pictures!or what we call as PicChick! <br />
+					And don't worry about when or how they are uploaded! Not a moment is lost!<br><br> </p>
+					
+					<!--START JUICEBOX EMBED-->
+						<script src="web/jbcore/juicebox.js"></script>
+							<script>
+								new juicebox({
+									containerId: "juicebox-container",
+									galleryWidth: "100%",
+									galleryHeight: "70%",
+									backgroundColor: "rgba(34,34,34,1)"
+									});
+							</script>
+							<div id="juicebox-container"></div>
+					<!--END JUICEBOX EMBED-->
+				</header>
+				
+<!--				
+				<div class="inner gallery">
+					<div class="row flush">
+						<div class="3u"><a href="images/cover/cover_dandelion.jpg" class="image full"><img src="images/cover/cover_dandelion.jpg" alt="" title="Share the experience" /></a></div>
+						<div class="3u"><a href="images/cover/cover_dandelion2.jpg" class="image full"><img src="images/cover/cover_dandelion2.jpg" alt="" title="make a moment out of this minute" /></a></div>
+						<div class="3u"><a href="images/cover/COVER_ID2.jpg" class="image full"><img src="images/cover/COVER_ID2.jpg" alt="" title="for those in distance!" /></a></div>
+						<div class="3u"><a href="images/cover/COVER_ID3.jpg" class="image full"><img src="images/cover/COVER_ID3.jpg" alt="" title="A diary for your self! " /></a></div>
+					</div>
+					<div class="row flush">
+						<div class="3u"><a href="images/cover/dandelion.jpg" class="image full"><img src="images/cover/dandelion.jpg" alt="" title="A diary of pics ... " /></a></div>
+						<div class="3u"><a href="images/cover/cover_dandelion2.jpg" class="image full"><img src="images/cover/dandelion2.jpg" alt="" title="A diary of voices..." /></a></div>
+						<div class="3u"><a href="images/cover/InDistance.jpg" class="image full"><img src="images/cover/InDistance.jpg" alt="" title="A diary of videos" /></a></div>
+						<div class="3u"><a href="images/cover/InDistance2.jpg" class="image full"><img src="images/cover/InDistance2.jpg" alt="" title="People come and go and walk away" /></a></div>
+					</div>
+				</div>
+			</article>
+		
+		<!-- Contact -->
+		<?php
+			// Define variables
+			$name = $email = $message = "";
+		?>
+			<article class="container box style3">
+				<header>
+					<h2>Please send us a message! </h2>
+					<p>If you are a developer or just interested somehow!</p>
+					<p id= "feedback"><?php echo $feedback ?></p>
+				</header>
+				<form method = "post" action= "?">
+					<div class="row half">
+						<div class="6u"><input type="text" class="text" name="name" placeholder="Name" id = "name" /></div>
+						<div class="6u"><input type="text" class="text" name="email" placeholder="Email" id = "email" /></div>
+					</div>
+					<div class="row half">
+						<div class="12u">
+							<textarea name="message" placeholder="Message" id= "message" ></textarea>
+						</div>
+					</div>
+					<div class="row">
+						<div class="12u">
+							<ul class="actions">
+								<li><input type= "submit" value="Submit"</li>
+						<!--		<li><a href="mailto:eatthesoul@gmail.com?subject=interested in inDistance product!" class="button form">Send Message</a></li> -->
+						<!--		<li><a href="mailto:hpourzand@gmail.com?subject=interested in inDistance product!" class="button form">Send Message</a></li> -->
+							</ul>
+						</div>
+					</div>
+				</form>
+				
+<?php
+$to = 'hpourzand@gmail.com';
+$subject = 'Interested in InDistance';
+
+$name = $_POST['name'];
+$email = $_POST['email'];
+$message = $_POST['message'];
+
+$message = <<<EMAIL
+
+Name: $name
+
+$message
+
+From $name
+
+EMAIL;
+
+$header = '$email';
+
+if($_POST)
+{
+	$sent= mail($to, $subject, $message, $header);
+	$feedback= "Thanks for the message!";
+}
+?>					
+			</article>
+				
+		
+		<section id="footer">
+			<ul class="icons">
+				<!--<li><a href= "https://www.facebook.com/inDistanceapp" class = "fa fa-facebook solo"><span>Facebook</span></a></li>
+				<li><a href= "https://twitter.com/inDistanceapp" class = "fa fa-twitter solo"><span>Twitter</span></a></li> -->
+				
+				<li><a href= "https://www.facebook.com/inDistanceapp" class = "fa fa-facebook-square fa-lg"></a></li>
+				<li></li><a href= "https://twitter.com/inDistanceapp" class = "fa fa-twitter-square fa-lg"></a></li>
+				<li><a href= "https://vimeo.com/user28557464" class = "fa fa-vimeo-square fa-lg"></a></li>
+				<li><a href= "https://medium.com/@inDistanceapp" class = "fa fa-pencil-square fa-lg"></a></li>
+				
+				<!--
+				<li><a href="https://plus.google.com/111426856533906308443/" class="fa fa-google-plus solo"><span>Google+</span></a></li>
+				<li><a href="https://dribbble.com/hpourzand" class="fa fa-dribbble solo"><span>Dribbble</span></a></li>
+				<li><a href="www.linkedin.com/pub/hoofar-pourzand/28/210/917" class="fa fa-linkedin solo"><span>LinkedIn</span></a></li>
+				-->
+			</ul>
+			<div class="copyright">
+				<ul class="menu">
+					<li>&copy;inDistance 2012-2014. </li>
+					<li>Maintained by InDistance. <a href="http://html5up.net/">HTML5 UP</a></li>
+				</ul>
+			</div>
+		</section>
+
+	</body>
+</html>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle=""
+	backgroundColor="rgba(2,68,152,1)"
+	useFullscreenExpand="true"
+	showThumbsButton="true"
+	indexPageName="first.html"
+
+>
+  <image imageURL="images/cover_dandelion.jpg"
+	thumbURL="thumbs/cover_dandelion.jpg"
+	linkURL="images/cover_dandelion.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ricky\Programming\Summer_2014\html\images\cover\cover_dandelion.jpg">
+    <title><![CDATA[cover_dandelion]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cover_dandelion2.jpg"
+	thumbURL="thumbs/cover_dandelion2.jpg"
+	linkURL="images/cover_dandelion2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ricky\Programming\Summer_2014\html\images\cover\cover_dandelion2.jpg">
+    <title><![CDATA[cover_dandelion2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cover_ID2.jpg"
+	thumbURL="thumbs/Cover_ID2.jpg"
+	linkURL="images/Cover_ID2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ricky\Programming\Summer_2014\html\images\cover\Cover_ID2.jpg">
+    <title><![CDATA[Cover_ID2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cover_ID3.jpg"
+	thumbURL="thumbs/Cover_ID3.jpg"
+	linkURL="images/Cover_ID3.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ricky\Programming\Summer_2014\html\images\cover\Cover_ID3.jpg">
+    <title><![CDATA[Cover_ID3]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/dandelion.jpg"
+	thumbURL="thumbs/dandelion.jpg"
+	linkURL="images/dandelion.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ricky\Programming\Summer_2014\html\images\cover\dandelion.jpg">
+    <title><![CDATA[dandelion]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/dandelion2.jpg"
+	thumbURL="thumbs/dandelion2.jpg"
+	linkURL="images/dandelion2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ricky\Programming\Summer_2014\html\images\cover\dandelion2.jpg">
+    <title><![CDATA[dandelion2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/InDistance.jpg"
+	thumbURL="thumbs/InDistance.jpg"
+	linkURL="images/InDistance.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ricky\Programming\Summer_2014\html\images\cover\InDistance.jpg">
+    <title><![CDATA[InDistance]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/InDistance2.jpg"
+	thumbURL="thumbs/InDistance2.jpg"
+	linkURL="images/InDistance2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ricky\Programming\Summer_2014\html\images\cover\InDistance2.jpg">
+    <title><![CDATA[InDistance2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/016.jpg"
+	thumbURL="thumbs/016.jpg"
+	linkURL="images/016.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ricky\Programming\Summer_2014\html\images\update\016.jpg">
+    <title><![CDATA[016]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/01.jpg"
+	thumbURL="thumbs/01.jpg"
+	linkURL="images/01.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ricky\Programming\Summer_2014\html\images\update\01.jpg">
+    <title><![CDATA[01]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/002.jpg"
+	thumbURL="thumbs/002.jpg"
+	linkURL="images/002.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ricky\Programming\Summer_2014\html\images\update\002.png">
+    <title><![CDATA[002]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/005.jpg"
+	thumbURL="thumbs/005.jpg"
+	linkURL="images/005.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ricky\Programming\Summer_2014\html\images\update\005.jpg">
+    <title><![CDATA[005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/007.jpg"
+	thumbURL="thumbs/007.jpg"
+	linkURL="images/007.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ricky\Programming\Summer_2014\html\images\update\007.jpg">
+    <title><![CDATA[007]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/008.jpg"
+	thumbURL="thumbs/008.jpg"
+	linkURL="images/008.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ricky\Programming\Summer_2014\html\images\update\008.jpg">
+    <title><![CDATA[008]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/012.jpg"
+	thumbURL="thumbs/012.jpg"
+	linkURL="images/012.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ricky\Programming\Summer_2014\html\images\update\012.jpg">
+    <title><![CDATA[012]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/013.jpg"
+	thumbURL="thumbs/013.jpg"
+	linkURL="images/013.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ricky\Programming\Summer_2014\html\images\update\013.jpg">
+    <title><![CDATA[013]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
