@@ -28,6 +28,7 @@
 				</header>
 				<footer>
 				<!--	<a href="#banner" class="button style2 scrolly scrolly-centered">Why it's so anticipated?</a> -->
+				<a href="https://mixpanel.com/f/partner"><img src="//cdn.mxpnl.com/site_media/images/partner/badge_light.png" alt="Mobile Analytics" /></a>
 				
 				<!-- Download -->
 					<a class="button style2 scrolly scrolly-centered" href="C:\Users\Ricky\Programming\Summer_2014\html\inDistance.apk" download="inDistance.apk">Download</a>
