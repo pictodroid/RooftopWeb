@@ -30,11 +30,7 @@
 				<!--	<a href="#banner" class="button style2 scrolly scrolly-centered">Why it's so anticipated?</a> -->
 				
 				<!-- Download -->
-					<a class="button style2 scrolly scrolly-centered" href="C:\Users\Ricky\Programming\Summer_2014\html\inDistance.apk" download="inDistance.apk">Download</a>
-					
-				<!--	<form method= "get" action="C:\Users\Ricky\Programming\Summer_2014\html\inDistance.apk" download= "inDistance.apk">
-						<button class="button style2 scrolly scrolly-centered" type="submit">Download</button>
-					</form> -->
+					<a class="button style2 scrolly scrolly-centered" href="./inDistance.apk" download="inDistance.apk">Download</a>
 				</footer>
 			</section>
 		
@@ -43,8 +39,8 @@
 				<header>
 					<h2>Because Texting is too much!</h2>
 				</header>
-				<p>A brand new way to leave messages and share moments designed by <a href="http://itshoofar.com">Me</a> for <a href="http://play.google.com/">Android phones</a>.<br/>
-				It’s fully native, first prototyped a year ago <a href="http://www.keystoneedge.com/innovationnews/HackPSU1206.aspx"> at HackPSU </a>, and of course successfully <a href="https://www.youtube.com/watch?v=Dvs9zj3jDxs"> demoed</a> and was <a href="https://www.youtube.com/watch?v=QjsK4YGfneI">loved-in-the-first-sight </a>  <br />
+				<p>A brand new way to leave messages and share moments designed by <a href="http://itshoofar.com">Rooftop Applications Team</a> for Android phones</a>.<br/>
+				 <br />
 				With three clicks you are sharing what you like, using your WiFi.</p>
 				<footer>
 					<a href="#first" class="button style2 scrolly">What? How?</a>
@@ -65,9 +61,6 @@
 		
 		<!-- Feature 2 -->
 			<article class="container box style1 left">
-				<!--<a href="#" class="image full"><img src="images/bg.jpg" alt="" /></a> -->
-				
-				
 				<div class="inner">
 					<header>
 						<h2>Or even your Video<br />
@@ -92,6 +85,7 @@
 					<p>Take multi-pictures!or what we call as PicChick! <br />
 					And don't worry about when or how they are uploaded! Not a moment is lost!<br><br> </p>
 					
+					<!-- Image viewer -->
 					<!--START JUICEBOX EMBED-->
 						<script src="web/jbcore/juicebox.js"></script>
 							<script>
@@ -105,24 +99,9 @@
 							<div id="juicebox-container"></div>
 					<!--END JUICEBOX EMBED-->
 				</header>
-				
-<!--				
-				<div class="inner gallery">
-					<div class="row flush">
-						<div class="3u"><a href="images/cover/cover_dandelion.jpg" class="image full"><img src="images/cover/cover_dandelion.jpg" alt="" title="Share the experience" /></a></div>
-						<div class="3u"><a href="images/cover/cover_dandelion2.jpg" class="image full"><img src="images/cover/cover_dandelion2.jpg" alt="" title="make a moment out of this minute" /></a></div>
-						<div class="3u"><a href="images/cover/COVER_ID2.jpg" class="image full"><img src="images/cover/COVER_ID2.jpg" alt="" title="for those in distance!" /></a></div>
-						<div class="3u"><a href="images/cover/COVER_ID3.jpg" class="image full"><img src="images/cover/COVER_ID3.jpg" alt="" title="A diary for your self! " /></a></div>
-					</div>
-					<div class="row flush">
-						<div class="3u"><a href="images/cover/dandelion.jpg" class="image full"><img src="images/cover/dandelion.jpg" alt="" title="A diary of pics ... " /></a></div>
-						<div class="3u"><a href="images/cover/cover_dandelion2.jpg" class="image full"><img src="images/cover/dandelion2.jpg" alt="" title="A diary of voices..." /></a></div>
-						<div class="3u"><a href="images/cover/InDistance.jpg" class="image full"><img src="images/cover/InDistance.jpg" alt="" title="A diary of videos" /></a></div>
-						<div class="3u"><a href="images/cover/InDistance2.jpg" class="image full"><img src="images/cover/InDistance2.jpg" alt="" title="People come and go and walk away" /></a></div>
-					</div>
-				</div>
 			</article>
 		
+		<!-- This is not properly working yet! -->
 		<!-- Contact -->
 		<?php
 			// Define variables
@@ -147,11 +126,8 @@
 					<div class="row">
 						<div class="12u">
 							<ul class="actions">
-								<li><input type= "submit" value="Submit"</li>
-						<!--		<li><a href="mailto:eatthesoul@gmail.com?subject=interested in inDistance product!" class="button form">Send Message</a></li> -->
-						<!--		<li><a href="mailto:hpourzand@gmail.com?subject=interested in inDistance product!" class="button form">Send Message</a></li> -->
-							</ul>
-						</div>
+								<li><input class="button style4 scrolly scrolly-centered" type= "submit" value="Submit"</li>
+						
 					</div>
 				</form>
 				
@@ -186,24 +162,15 @@ if($_POST)
 		
 		<section id="footer">
 			<ul class="icons">
-				<!--<li><a href= "https://www.facebook.com/inDistanceapp" class = "fa fa-facebook solo"><span>Facebook</span></a></li>
-				<li><a href= "https://twitter.com/inDistanceapp" class = "fa fa-twitter solo"><span>Twitter</span></a></li> -->
-				
 				<li><a href= "https://www.facebook.com/inDistanceapp" class = "fa fa-facebook-square fa-lg"></a></li>
 				<li></li><a href= "https://twitter.com/inDistanceapp" class = "fa fa-twitter-square fa-lg"></a></li>
 				<li><a href= "https://vimeo.com/user28557464" class = "fa fa-vimeo-square fa-lg"></a></li>
 				<li><a href= "https://medium.com/@inDistanceapp" class = "fa fa-pencil-square fa-lg"></a></li>
-				
-				<!--
-				<li><a href="https://plus.google.com/111426856533906308443/" class="fa fa-google-plus solo"><span>Google+</span></a></li>
-				<li><a href="https://dribbble.com/hpourzand" class="fa fa-dribbble solo"><span>Dribbble</span></a></li>
-				<li><a href="www.linkedin.com/pub/hoofar-pourzand/28/210/917" class="fa fa-linkedin solo"><span>LinkedIn</span></a></li>
-				-->
 			</ul>
 			<div class="copyright">
 				<ul class="menu">
 					<li>&copy;inDistance 2012-2014. </li>
-					<li>Maintained by InDistance. <a href="http://html5up.net/">HTML5 UP</a></li>
+					<li>Maintained by InDistance Team</li>
 				</ul>
 			</div>
 		</section>
@@ -212,7 +179,7 @@ if($_POST)
 	
 <!-- ClickDesk Live Chat Service for websites -->
 <script type='text/javascript'>
-var _glc =_glc || []; _glc.push('all_ag9zfmNsaWNrZGVza2NoYXRyDwsSBXVzZXJzGPiExYQDDA');
+var _glc =_glc || []; _glc.push('all_ag9zfmNsaWNrZGVza2NoYXRyDwsSBXVzZXJzGLm_3MEDDA');
 var glcpath = (('https:' == document.location.protocol) ? 'https://my.clickdesk.com/clickdesk-ui/browser/' : 
 'http://my.clickdesk.com/clickdesk-ui/browser/');
 var glcp = (('https:' == document.location.protocol) ? 'https://' : 'http://');
